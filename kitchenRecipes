@@ -1,0 +1,13 @@
+breakfast : dosa
+            idli
+            chole
+            sandwich
+            eggs
+            
+lunch     : daal
+            roti
+            biryani
+            
+dinner    : rice
+            dahi
+            chicken
